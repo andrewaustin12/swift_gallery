@@ -6,8 +6,6 @@ Computed properties are a special type of property that don’t actually store a
 
 ![Alt text](../Images/Properties_And_Access_Control/readOnlyComputedProperites.png "a title")
 
-![Alt text](../Images/Properties_And_Access_Control/readOnlyComputedPorperties2.png "a title")
-
 * Here doubleLife is ``decalared`` as an ``Int`` type.
 * The brackets after the type give us a scope for the getter.
 * The ``get`` keyword defines the getter.
