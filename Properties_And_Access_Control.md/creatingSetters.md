@@ -6,6 +6,7 @@ Computed properties don’t store values directly, so you need to actually set t
 ![Alt text](../Images/Properties_And_Access_Control/creatingSetters.png "a title")
 
 The easiest way to create a setter is to use the getter as an equation:
+
 ![Alt text](../Images/Properties_And_Access_Control/setterEquation1.png "an example equation1")
 
 Now solve for the ``numberOfLives`` by dividing both sides by two:
