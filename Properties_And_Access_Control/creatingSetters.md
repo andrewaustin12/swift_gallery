@@ -36,6 +36,6 @@ Key details:
 
 ![Alt text](../Images/Properties_And_Access_Control/omittingReturnKeyword.png "Omitting Return Keyword Example")
 
-* You can omit the passed parameter on the setter and use the default ``newVaule`` that is provide to you:
+* You can omit the passed parameter on the setter and use the default ``newValue`` that is provide to you:
 
 ![Alt text](../Images/Properties_And_Access_Control/omittingPassedParam.png "Omitting Passed Parameter Example")
