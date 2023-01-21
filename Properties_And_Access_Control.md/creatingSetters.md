@@ -7,7 +7,9 @@ Computed properties don’t store values directly, so you need to actually set t
 
 The easiest way to create a setter is to use the getter as an equation:
 ![Alt text](../Images/Properties_And_Access_Control/setterEquation1.png "an example equation1")
+
 Now solve for the ``numberOfLives`` by dividing both sides by two:
+
 ![Alt text](../Images/Properties_And_Access_Control/setterEquation2.png "an example equation1")
 
 You can complete the syntax for the setter using the ``set`` key word.
@@ -26,10 +28,13 @@ Key details:
 ### Shorthand Forms
 
 * Read-only computed properties can omit the ``get`` key word:
+
 ![Alt text](../Images/Properties_And_Access_Control/omittingGetKeyword.png "Omitting Get Keyword Example")
 
 * Computed properties witha a getter and setter can omit the ``return`` IF the entire body of the getter is a single experession:
+
 ![Alt text](../Images/Properties_And_Access_Control/omittingReturnKeyword.png "Omitting Return Keyword Example")
 
 * You can omit the passed parameter on the setter and use the default ``newVaule`` that is provide to you:
+
 ![Alt text](../Images/Properties_And_Access_Control/omittingPassedParam.png "Omitting Passed Parameter Example")
