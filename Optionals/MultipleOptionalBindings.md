@@ -1,3 +1,4 @@
+##### OPTIONALS
 # Multipe Optoinal Bindings
 
 *if let* statements are a great way to safely handle optional values. Sometimes, we might have a lot of optionals we need to unwrap! This can get very indented:
